@@ -29,5 +29,6 @@ para ver si se ha copiado bien
 docker exec -it 100fcproyecto1 cat /usr/share/nginx/html/index.html
 
 ```
-  
+![alt text](image.png)  
+
 ### Enlace a Docker hub : https://hub.docker.com/repository/docker/verogmayo/107fcproyecto1/general
